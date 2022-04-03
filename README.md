@@ -1,4 +1,4 @@
-# MIraiSliderTool
+# MiraiSliderTool
 用于完成 Mirai QQ机器人框架登陆时的滑块条验证
 ## 使用方法
 1. 下载["MiraiSliderTool.zip"](https://github.com/SwaggyMacro/MIraiSliderTool/releases/download/0.1/MiraiSliderTool.zip)解压后直接双击运行 **"MiraiSliderTool.exe"**  
